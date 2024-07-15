@@ -80,13 +80,16 @@ section{
 }
 
 .header .navbar a:hover{
-    color: #0d8fd6;
-    font-weight: 600;
-    border-bottom: solid #0d8fd6;
+	color: #fff;
+    background: #0d8fd6;
+    padding: 0.5rem 1.3rem 0.6rem;
+    border-radius: .5rem;
 }
 header .navbar .active {
-    color: #0d8fd6;
-    font-weight: 600;
+        color: #fff;
+    background: #0d8fd6;
+    padding: 0.5rem 1.3rem 0.6rem;
+    border-radius: .5rem;
 }
 
 .header .navbar #close-navbar{
