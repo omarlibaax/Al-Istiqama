@@ -900,6 +900,11 @@ header .navbar .active {
         font-size: 50%;
     }
 	.header .logo img {
-		width: 100px;
+		width: 20rem;
+		margin: 0;
+	}
+	.header .btn {
+		padding: 0.5rem 0.8rem;
+		font-size: 1.5rem;
 	}
 }
